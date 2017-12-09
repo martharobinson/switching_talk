@@ -29,18 +29,16 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 ---
 
 @title["On" and "OFF" cells]
-#### ON and OFF cells
+##### ON and OFF cells
 
-![ON cell](figures/NoSwitch_example_cell_144.png)
-![OFF cell](figures/NoSwitch_example_cell_152.png)
-![colourbar](figures/normalized_colourbar_SwitchingCells.png)
+<img src="figures/NoSwitchcellegs_WT.png" alt="Stable cells" width="600">
 
 ---
 
 @title[Some cells switch polarity]
-###### Some cells switch response polarity
+##### Some cells switch response polarity
 
-<img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="480">
+<img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="600">
 
 ---
 
