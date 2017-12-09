@@ -1,3 +1,6 @@
+![retina](image=figures/retina_circuit.png)
+
+
 @title[Title slide]
 ## Lights on, lights off
 #### "switching" cells in the reina
