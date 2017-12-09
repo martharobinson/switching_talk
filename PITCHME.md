@@ -1,17 +1,12 @@
 @title[Title slide]
 ## Lights on, lights off
 #### "switching" cells in the reina
+Martha Robinson
 ---
 
 @title[Introduction to the retina]
-- graded potentials
-- rod signals "parasitic" on cone pathway via gap junction
-- 1st synapse "backwards"
-- needs to operate over a large range of environmental light levels
 
----
-
-## Introducing Workflow
+## Overview of the retina
 
 +++?image=figures/retina_circuit.png&size=contain
 <!-- .slide: data-background-transition="none" -->
@@ -24,11 +19,12 @@
 +++?image=figures/retina_circuit.png&size=contain
 <!-- .slide: data-background-transition="none" -->
 
-
----
-
-@title[Classical understanding: On vs OFF channels]
-Separation into ON and OFF channels by receptor expression + anatomy
+Note:
+Just keep on to 3 key ideas:
+The retina needs to operate and signal meaningfully over a large range of environmental light levels
+The retina has two main classes of input cells: rod and cone photoreceptors, that are specialised to dim light and bright light
+Rod pathway is "parasitic" on cone pathway via AII cells.
+Classically, retina is thought to be separated into ON and OFF channels, is by receptor expression and by anatomy
 
 ---
 
