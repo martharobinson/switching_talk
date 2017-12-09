@@ -1,13 +1,14 @@
----
-
 @title[Title slide]
-
+## Lights on, lights off
+#### "switching" cells in the reina
 ---
 
 @title[Introduction to the retina]
 - graded potentials
 - rod signals "parasitic" on cone pathway via gap junction
 - 1st synapse "backwards"
+- needs to operate over a large range of environmental light levels
+
 ---
 
 @title[Classical understanding: On vs OFF channels]
