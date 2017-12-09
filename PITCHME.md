@@ -8,7 +8,7 @@
 - rod signals "parasitic" on cone pathway via gap junction
 - 1st synapse "backwards"
 - needs to operate over a large range of environmental light levels
-![retina](image=figures/retina_circuit.png)
+![retina](image=https://github.com/martharobinson/switching_talk/blob/master/figures/retina_circuit.png)
 
 
 +++
