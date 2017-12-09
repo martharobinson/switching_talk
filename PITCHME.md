@@ -38,9 +38,15 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 ---
 
 @title[Some cells switch polarity]
+#### Some cells switch response polarity as the background light level changes
 
-- Example cells
-- Summary plot -> switching is common
+![ON cell](figures/Switch_example_cell_131.png)
+![OFF cell](figures/Switch_example_cell_149.png)
+![colourbar](figures/normalized_colourbar_SwitchingCells.png)
+
+---
+
+@title[Switching was common]
 
 ---
 
