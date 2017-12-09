@@ -9,15 +9,21 @@
 - 1st synapse "backwards"
 - needs to operate over a large range of environmental light levels
 
+---
 
+## Introducing Workflow
 
-
-+++
++++?image=figures/retina_circuit.png
 <!-- .slide: data-background-transition="none" -->
-![retina](figures/retina_circuit.png)
-+++
++++?image=figures/retina_circuit.png
 <!-- .slide: data-background-transition="none" -->
-![retina](figures/retina_circuit.png)
++++?image=figures/retina_circuit.png
+<!-- .slide: data-background-transition="none" -->
++++?image=figures/retina_circuit.png
+<!-- .slide: data-background-transition="none" -->
++++?image=figures/retina_circuit.png
+<!-- .slide: data-background-transition="none" -->
+
 
 ---
 
