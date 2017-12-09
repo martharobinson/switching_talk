@@ -28,10 +28,17 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 
 ---
 
+@title[Methods]
+
+---
+
 @title["On" and "OFF" cells]
 ##### ON and OFF cells
 
 <img src="figures/NoSwitchcellegs_WT.png" alt="Stable cells" width="600">
+
+Note: 
+Scalebar is
 
 ---
 
@@ -39,6 +46,9 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 ##### Some cells switch response polarity
 
 <img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="600">
+
+Note:
+Scalebar is
 
 ---
 
@@ -59,6 +69,10 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 ---
 
 @title[Summary of obervsations and questions]
+- Switching was common
+- Swiching occured between every pair of light levels - no obvious pattern
+- Switching could occur multiple times in one cell
+- Cells which switched polarity have less stable spatial receptive fields
 
 ---
 
