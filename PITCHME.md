@@ -9,6 +9,13 @@
 - 1st synapse "backwards"
 - needs to operate over a large range of environmental light levels
 
++++
+<!-- .slide: data-background-transition="none" -->
+![0](image=figures/retina_circuit.pdf)
++++
+<!-- .slide: data-background-transition="none" -->
+![1](image=figures/retina_circuit.pdf)
+
 ---
 
 @title[Classical understanding: On vs OFF channels]
