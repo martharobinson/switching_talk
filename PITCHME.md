@@ -40,7 +40,7 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 @title[Some cells switch polarity]
 ###### Some cells switch response polarity
 
-<img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="48">
+<img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="480">
 
 ---
 
