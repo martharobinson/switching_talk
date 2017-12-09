@@ -13,15 +13,15 @@
 
 ## Introducing Workflow
 
-+++?image=figures/retina_circuit.png
++++?image=figures/retina_circuit.png&size=contain
 <!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png
++++?image=figures/retina_circuit.png&size=contain
 <!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png
++++?image=figures/retina_circuit.png&size=contain
 <!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png
++++?image=figures/retina_circuit.png&size=contain
 <!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png
++++?image=figures/retina_circuit.png&size=contain
 <!-- .slide: data-background-transition="none" -->
 
 
