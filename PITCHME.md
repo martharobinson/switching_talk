@@ -11,10 +11,10 @@
 
 +++
 <!-- .slide: data-background-transition="none" -->
-![0](image=figures/retina_circuit.pdf)
+![0](image=figures/retina_circuit.png)
 +++
 <!-- .slide: data-background-transition="none" -->
-![1](image=figures/retina_circuit.pdf)
+![1](image=figures/retina_circuit.png)
 
 ---
 
