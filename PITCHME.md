@@ -1,6 +1,3 @@
-![retina](figures/retina_circuit.png)
-
-
 @title[Title slide]
 ## Lights on, lights off
 #### "switching" cells in the reina
@@ -12,7 +9,7 @@
 - 1st synapse "backwards"
 - needs to operate over a large range of environmental light levels
 
-![retina](image=figures/retina_circuit.png)
+![retina](figures/retina_circuit.png)
 
 
 +++
