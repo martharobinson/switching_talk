@@ -1,4 +1,4 @@
-![retina](image=figures/retina_circuit.png)
+![retina](figures/retina_circuit.png)
 
 
 @title[Title slide]
