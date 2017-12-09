@@ -29,7 +29,7 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 ---
 
 @title["On" and "OFF" cells]
-## ON and OFF cells
+#### ON and OFF cells
 
 ![ON cell](figures/NoSwitch_example_cell_144.png)
 ![OFF cell](figures/NoSwitch_example_cell_152.png)
