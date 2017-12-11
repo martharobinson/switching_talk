@@ -54,13 +54,18 @@ Scalebar is
 
 @title[Switching was common]
 
+![](figures/switching_quantification.png)
 ---
 
 @title[Switching occurs between every possible pair of light levels]
 
+![](figures/switches_all_light_levels.png)
+
 ---
 
 @title[Switching can occur multiple times in one cell]
+
+![](figures/figures/multiple_switches_one_cell.png)
 
 ---
 
@@ -81,6 +86,8 @@ Scalebar is
 ---
 
 @title[Does switching require rod input?]
+
+![](figures/switching_C57vsrd17.png)
 
 ---
 
