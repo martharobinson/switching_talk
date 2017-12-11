@@ -65,7 +65,7 @@ Scalebar is
 
 @title[Switching can occur multiple times in one cell]
 
-![](figures/figures/multiple_switches_one_cell.png)
+![](figures/multiple_switches_one_cell.png)
 
 ---
 
