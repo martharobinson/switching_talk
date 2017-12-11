@@ -88,6 +88,7 @@ Scalebar is
 @title[Does switching require rod input?]
 
 ![](figures/switching_C57vsrd17.png)
+![](figures/switching_C57vsrd17_topll.png)
 
 ---
 
