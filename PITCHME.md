@@ -76,6 +76,8 @@ Tikidji-Hamburyan (2015) have also seen this
 @title[Cells which switched polarity had less stable spatial receptive fields]
 ##### Cells which switched polarity had less stable spatial receptive fields
 
+![](figures/spatial_instability.png)
+
 ---
 
 @title[Summary of obervsations and questions]
