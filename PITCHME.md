@@ -26,6 +26,8 @@ The retina has two main classes of input cells: rod and cone photoreceptors, tha
 Rod pathway is "parasitic" on cone pathway via AII cells.
 Classically, retina is thought to be separated into ON and OFF channels, is by receptor expression and by anatomy
 
+---
+
 @title[Methods]
 ##### Methods
 Experimental set-up and on and off cells
