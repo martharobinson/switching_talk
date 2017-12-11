@@ -38,42 +38,48 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 <img src="figures/NoSwitchcellegs_WT.png" alt="Stable cells" width="600">
 
 Note: 
-Scalebar is
+Scalebar is 200um
 
 ---
 
 @title[Some cells switch polarity]
-##### Some cells switch response polarity
+##### Retinal ganglion cells can switch receptive field polarity between ON and OFF
 
 <img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="600">
 
 Note:
-Scalebar is
+Scalebar is 200um
+Tikidji-Hamburyan (2015) have also seen this
 
 ---
 
 @title[Switching was common]
+##### 28% of retinal ganglion cells switched receptive field polarity
 
 ![](figures/switching_quantification.png)
 ---
 
 @title[Switching occurs between every possible pair of light levels]
+##### Switching occured between every pair of light levels tested
 
 ![](figures/switches_all_light_levels.png)
 
 ---
 
 @title[Switching can occur multiple times in one cell]
+##### Switching can occur multiple times in one cell
 
 ![](figures/multiple_switches_one_cell.png)
 
 ---
 
 @title[Cells which switched polarity had less stable spatial receptive fields]
+##### Cells which switched polarity had less stable spatial receptive fields
 
 ---
 
 @title[Summary of obervsations and questions]
+##### Summary
 - Switching was common
 - Swiching occured between every pair of light levels - no obvious pattern
 - Switching could occur multiple times in one cell
@@ -88,6 +94,7 @@ Scalebar is
 @title[Does switching require rod input?]
 
 ![](figures/switching_C57vsrd17.png)
+![](figures/switching_C57vsrd17_topll.png)
 
 ---
 
