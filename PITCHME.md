@@ -109,8 +109,8 @@ cite from Odermatt 2012 paper
 
 @title[Minimal model of switching]
 ```python
-def rectifying_terminal_with_gap_junction(vprior, 
-                                          input, dt):
+def rectifying_terminal_with_gap_junction(
+        vprior, input, dt):
     iweight = 0.5 #input weight
     islope = 20.0 #rectifying terminal Hill slope
     ih = 5.0 #rectifying terminal half-saturation point
