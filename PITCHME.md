@@ -152,13 +152,13 @@ def rectifying_terminal_with_gap_junction(
 #### Is the model sufficient?
 
 - Common | 
-✅ widespread, basic retinal circuit |
+-- ✅ widespread, basic retinal circuit |
 - Occured between every pair of light levels |
-✅ small differences in one component can shift switch along light levels |
+-- ✅ small differences in one component can shift switch along light levels |
 - Could occur multiple times in one cell |
-✅ model terminals can switch multiple times |
+-- ✅ model terminals can switch multiple times |
 - Associated with spatial instability |
-likely, as multiple terminals make up spatial receptive field of ganglion cells
+-- likely, as multiple terminals make up spatial receptive field of ganglion cells |
 
 ---
 @title[Ongoing]
