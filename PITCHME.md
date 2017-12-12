@@ -106,6 +106,37 @@ cite from Odermatt 2012 paper
 @title[Minimal model of switching]
 
 ---
+
+@title[Minimal model of switching]
+```
+# We also know that cone ON bipolar cells resting membrane potential becomes more hyperpolaized with light, 
+# driven by gap junction coupled AII cells (which are in turn driven by rod bipolar cells)
+# Define a rectifying terminal where the resting membrane potential hyperpolarizes with light (defined by a Hill function)
+def rectifying_terminal_with_gap_junction(vprior, input, dt):
+    # inputs: vprior: the membrane potential at the previous timestep
+    # input: stimulus input
+    # dt: the timestep
+    iweight = 0.5 # how much to weight input by for driving excitation
+    islope = 20.0 #10.0 # set how steep the slope of the Hill function is
+    ih = 5.0 # set half-saturation point of the Hill function
+    aslope = 3
+    ah = 3
+    aweight = 1# how much to weight input by for driving this gap junction voltage
+    #calcuate the voltage "input" from antagonistic component (i.e. coupled AII cell)
+    antagv = (input*aweight)**-aslope/((input*aweight)**-aslope + ah**-aslope)
+    antagweight = 5# how much to scale the 0:1 output of antagv by
+    taum = 10 # decay time constant
+    # decay the membrane potential back to rest with some constant 
+    # and add the input representing excitatory synaptic input
+    vinf = (antagv*antagweight) + (input*iweight)
+    vt = vinf + (vprior - vinf)*np.exp(-dt/taum)
+    # calculate release using Hill equation (sigmoidal)
+    release = vt**islope/(vt**islope + ih**islope)
+    # return release directly, as bipolar ribbon synapses are graded
+    return vt, release
+```
+
+---
 @title[Minimal model of switching]
 #### Minimal model of switching
 A **rectifying terminal** that **hyperpolarizes with light**
