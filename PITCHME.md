@@ -38,7 +38,7 @@ Scalebar is 200um
 
 <img src="figures/Switching_figA.png" alt="Spatial instability" height="250">
 <img src="figures/switching_quantification.png" alt="Spatial instability" height="250">
-<img src="figures/TH_2015_ref.png" alt="Spatial instability" height="250">
+<img src="figures/TH_2015_ref.png" alt="Spatial instability" height="250" class="fragment">
 
 Note:
 Scalebar is 200um
@@ -128,7 +128,7 @@ def rectifying_terminal_with_gap_junction(
 @title[Minimal model of switching]
 <p><span class="menu-title slide-title">Minimal model of switching</span></p>
 A **rectifying terminal** that **hyperpolarizes with light**
-<img src="figures/rectifying_terminal_only.png" width="350" class="fragment">
+<img src="figures/rectifying_terminal_only.png" width="350"  class="fragment">
 <img src="figures/rectifying_terminal_hill_vm.png" width="350" class="fragment">
 
 ---
