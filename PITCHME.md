@@ -137,20 +137,17 @@ def rectifying_terminal_with_gap_junction(
 ---
 @title[Minimal model of switching]
 <p><span class="menu-title slide-title">Minimal model of switching</span></p>
-A **rectifying terminal** that **hyperpolarizes with light**
 <img src="figures/rectifying_terminal_only.png" width="350"  class="fragment">
 <img src="figures/rectifying_terminal_hill_vm.png" width="350" class="fragment">
 
----
+---?image=figures/model_switching_between_diff_lightlevels.png&size=auto 90%
 
 @title[Minimal model allows switching between any pair of light levels]
-<p><span class="menu-title slide-title">Minimal model of switching</span></p>
-<img src="figures/model_switching_between_diff_lightlevels.png" height="700">
 
 ---
 @title[Minimal model allows one cell to switch multiple times]
 <p><span class="menu-title slide-title">Minimal model of switching</span></p>
-<img src="figures/model_switch_multiple_times.png" height="300">
+<img src="figures/model_switch_multiple_times.png" width="600">
 
 ---
 @title[Model summary]
