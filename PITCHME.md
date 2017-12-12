@@ -29,9 +29,9 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 ---
 
 @title[Methods]
-##### Methods
+##### Characterising retinal receptive fields
 
-![](figures/experimental_outline.png)
+<img src="figures/experimental_outline.png" alt="Methods" width="600">
 
 <img src="figures/NoSwitchcellegs_WT.png" alt="Stable cells" width="600">
 
