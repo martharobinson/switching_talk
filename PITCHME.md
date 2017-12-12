@@ -29,11 +29,8 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 ---
 
 @title[Methods]
-
----
-
-@title["On" and "OFF" cells]
-##### ON and OFF cells
+##### Methods
+Experimental set-up and on and off cells
 
 <img src="figures/NoSwitchcellegs_WT.png" alt="Stable cells" width="600">
 
@@ -43,7 +40,7 @@ Scalebar is 200um
 ---
 
 @title[Some cells switch polarity]
-##### Retinal ganglion cells can switch receptive field polarity between ON and OFF
+##### Receptive fields can "switch" with light level
 
 <img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="600">
 
@@ -53,37 +50,39 @@ Tikidji-Hamburyan (2015) have also seen this
 
 ---
 
-@title[Switching was common]
-##### 28% of retinal ganglion cells switched receptive field polarity
+@title[Switching occured in 28% of cells]
+##### Switching occured in 28% of cells
 
 ![](figures/switching_quantification.png)
 ---
 
-@title[Switching occurs between every possible pair of light levels]
-##### Switching occured between every pair of light levels tested
+@title[Switching occured between every pair of light levels]
+##### Switching occured between every pair of light levels
 
 ![](figures/switches_all_light_levels.png)
 
 ---
 
-@title[Switching can occur multiple times in one cell]
-##### Switching can occur multiple times in one cell
+@title[One cell can switch multiple times]
+##### One cell can switch multiple times
 
 ![](figures/multiple_switches_one_cell.png)
 
 ---
 
-@title[Cells which switched polarity had less stable spatial receptive fields]
-##### Cells which switched polarity had less stable spatial receptive fields
+@title[Switching is assocaited with spatial instability]
+##### Switching is assocaited with spatial instability
+
+<img src="figures/spatial_instability.png" alt="Switching cells" width="600">
 
 ---
 
-@title[Summary of obervsations and questions]
+@title[Summary]
 ##### Summary
-- Switching was common
+- Switching was common (28%)
 - Swiching occured between every pair of light levels - no obvious pattern
-- Switching could occur multiple times in one cell
-- Cells which switched polarity have less stable spatial receptive fields
+- One cell can switch multiple times
+- Switching is assocaited with spatial instability
 
 ---
 
