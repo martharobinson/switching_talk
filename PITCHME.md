@@ -15,7 +15,7 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 Give more background on who you are and where you're coming from and what your skills are, and less on making everyone understand the retina.
 I started this work because I was interested in how the rod and the cone pathways interact, particularly in "mesopic" vision where both pathways are active, and how this might be altered in disorders of vision where one or other pathway is absent.
 
----?image=figures/experimental_outline.png&size=auto 90%
+---?image=figures/experimental_outline.png&size=auto 85%
 
 @title[Methods]
 
@@ -25,12 +25,8 @@ I started this work because I was interested in how the rod and the cone pathway
 Note: 
 Scalebar is 200um
 
----
-
+---?image=figures/WT_ONOFF_SwitchingCells_EgFilters.png.png&size=auto 90%
 @title[Receptive fields can "switch" with light level]
-##### Receptive fields can "switch" with light level
-
-<img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="600">
 
 Note:
 Scalebar is 200um
@@ -40,7 +36,7 @@ Maybe also point to other egs of switches in ganglion cells
 ---
 
 @title[Switching occured in 28% of cells]
-##### Switching occured in 28% of cells
+<p><span class="menu-title slide-title">Switching occured in 28% of cells</span></p>
 
 ![](figures/Switching_figA.png)
 ![](figures/switching_quantification.png)
@@ -50,14 +46,14 @@ cite from TK paper (little box figure)
 ---
 
 @title[Switching in the absence of rod or cone function]
-##### Switching in the absence of rod or cone function
+<p><span class="menu-title slide-title">Switching in the absence of rod or cone function</span></p>
 
 ![](figures/switching_C57vsrd17_topll.png)
 
 ---
 
 @title[Switching occured between every pair of light levels]
-##### Switching occured between every pair of light levels
+<p><span class="menu-title slide-title">Switching occured between every pair of light levels</span></p>
 
 ![](figures/Switching_figD.png)
 ![](figures/switches_all_light_levels.png)
@@ -65,7 +61,7 @@ cite from TK paper (little box figure)
 ---
 
 @title[One cell can switch multiple times]
-##### One cell can switch multiple times
+<p><span class="menu-title slide-title">One cell can switch multiple times</span></p>
 
 ![](figures/Switching_figB.png)
 ![](figures/multiple_switches_one_cell.png)
@@ -73,7 +69,7 @@ cite from TK paper (little box figure)
 ---
 
 @title[Switching is associated with spatial instability]
-##### Switching is associated with spatial instability
+<p><span class="menu-title slide-title">Switching is associated with spatial instability</span></p>
 
 ![](figures/Switching_figC.png)
 <img src="figures/spatial_instability.png" alt="Spatial instability" width="600">
@@ -148,7 +144,8 @@ A **rectifying terminal** that **hyperpolarizes with light**
 
 ----
 @title[Model summary]
-##### Summary
+<p><span class="menu-title slide-title">Is the model sufficient?</span></p>
+
 - Switching was common (28%) ✅
 - Swiching occured between every pair of light levels ✅
 - One cell can switch multiple times ✅
@@ -156,13 +153,11 @@ A **rectifying terminal** that **hyperpolarizes with light**
 
 ---
 @title[Next steps]
-##### Next steps
-
+<p><span class="menu-title slide-title">Next steps</span></p>
 
 ---
 
 @title[Questions?]
-##### Questions?
-<img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="600">
+# Questions?
 
 
