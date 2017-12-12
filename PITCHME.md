@@ -30,7 +30,8 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 
 @title[Methods]
 ##### Methods
-Experimental set-up and on and off cells
+
+![](figures/experimental_outline.png)
 
 <img src="figures/NoSwitchcellegs_WT.png" alt="Stable cells" width="600">
 
