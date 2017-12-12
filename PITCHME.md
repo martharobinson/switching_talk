@@ -30,8 +30,6 @@ Scalebar is 200um
 
 Note:
 Scalebar is 200um
-Tikidji-Hamburyan (2015) have also seen this
-Maybe also point to other egs of switches in ganglion cells
 
 ---
 
@@ -40,8 +38,12 @@ Maybe also point to other egs of switches in ganglion cells
 
 <img src="figures/Switching_figA.png" alt="Spatial instability" height="250">
 <img src="figures/switching_quantification.png" alt="Spatial instability" height="250">
+<img src="figures/TH_2015_ref.png" alt="Spatial instability" height="250">
 
-cite from TK paper (little box figure)
+Note:
+Scalebar is 200um
+Tikidji-Hamburyan (2015) have also seen this
+Maybe also point to other egs of switches in ganglion cells
 
 ---
 
