@@ -146,7 +146,7 @@ def rectifying_terminal_with_gap_junction(
 
 ---
 @title[Minimal model allows one cell to switch multiple times]
-![](figures/model_switch_multiple_times)
+![](figures/model_switch_multiple_times.png)
 ---
 @title[Model summary]
 <p><span class="menu-title slide-title">Is the model sufficient?</span></p>
