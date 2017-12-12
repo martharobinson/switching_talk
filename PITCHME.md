@@ -177,3 +177,4 @@ Glycine blocker eg strychnine
 <p><span class="menu-title slide-title">Switching in the absence of rod or cone function</span></p>
 
 ![](figures/switching_C57vsrd17_topll.png)
+![](figures/switching_C57vscpfl1_botll.png)
