@@ -80,15 +80,15 @@ Why do cells switch polarity?
 ##### Minimal model of switching
 ![](figures/basic_ia_model.png)
 
----?image=assets/bg.jpg&size=contain
+---?image=figures/retina_circuit.png&size=contain
 
 @title[Minimal model of switching]
 
 ---
 @title[Minimal model of switching]
-<img src="figures/rectifying_terminal_only.png" width="300">
-<img src="figures/rectifying_terminal_inv_vm.png" width="300">
-<img src="figures/rectifying_terminal_hill_vm.png" width="300">
+<img src="figures/rectifying_terminal_only.png" width="350">
+<img src="figures/rectifying_terminal_inv_vm.png" width="350">
+<img src="figures/rectifying_terminal_hill_vm.png" width="350">
 
 ---
 
@@ -99,7 +99,7 @@ Why do cells switch polarity?
 - One cell can switch multiple times 
 - Switching is assocaited with spatial instability
 
----?image=assets/bg.jpg&size=contain
+---?image=figures/retina_circuit.png&size=contain
 @title[Implications of the minimal model]
 
 ---
@@ -111,7 +111,9 @@ Why do cells switch polarity?
 
 ---
 
-@title[Summary and conclusions]
+@title[Questions?]
+##### Questions?
+<img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="600">
 
 
 ---
