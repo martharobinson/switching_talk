@@ -87,6 +87,7 @@ Really talk about how this seems like a nightmare for downstream neurons - if th
 @title[Switching also occurs at bipolar cell terminals]
 <p><span class="menu-title slide-title">Switching also occurs at bipolar cell terminals</span></p>
 <img src="figures/Odermatt_2012_ref.png" height="200">
+<img src="figures/Vlasits_2014_ref.png" height="200">
 <img src="figures/basic_ia_model.png" height="200">
 
 ---?image=figures/retina_circuit.png&size=auto 90%
