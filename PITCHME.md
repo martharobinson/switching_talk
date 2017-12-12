@@ -143,9 +143,11 @@ def rectifying_terminal_with_gap_junction(
 ---?image=figures/model_switching_between_diff_lightlevels.png&size=auto 90%
 
 @title[Minimal model allows switching between any pair of light levels]
+<p><span class="menu-title slide-title">Minimal model of switching</span></p>
 
 ---
 @title[Minimal model allows one cell to switch multiple times]
+<p><span class="menu-title slide-title">Minimal model of switching</span></p>
 ![](figures/model_switch_multiple_times.png)
 ---
 @title[Model summary]
