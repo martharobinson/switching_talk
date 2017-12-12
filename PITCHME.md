@@ -39,7 +39,7 @@ Maybe also point to other egs of switches in ganglion cells
 <p><span class="menu-title slide-title">Switching occured in 28% of cells</span></p>
 
 <img src="figures/Switching_figA.png" alt="Spatial instability" width="900">
-<img src="figures/switching_quantification.png" alt="Spatial instability" height="200">
+<img src="figures/switching_quantification.png" alt="Spatial instability" height="300">
 
 cite from TK paper (little box figure)
 
