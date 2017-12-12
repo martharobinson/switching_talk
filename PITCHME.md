@@ -88,6 +88,14 @@ Really talk about how this seems like a nightmare for downstream neurons - if th
 <p><span class="menu-title slide-title">Switching also occurs at bipolar cell terminals</span></p>
 <img src="figures/Odermatt_2012_ref.png" height="200">
 <img src="figures/Vlasits_2014_ref.png" height="200">
+
+Note:
+Odermatt = calcium indicator in bipolar cell terminals - SYGCAMP2 in zebrafish
+Vlasits = Individual voltage clamp sweeps at −72 mV holding potential showing the excitatory current during presentation of a 2 s light flash (yellow bar) in an On-SAC before and after repetitive stimulation. Light adaptation causes a switch in the starburst amacrine cell, which is blocked by L-AP4 and therefore driven by an ON bipolar cell.
+
+---
+
+<img src="figures/Grimes_2014_ref.png" height="200">
 <img src="figures/basic_ia_model.png" height="200">
 
 ---?image=figures/retina_circuit.png&size=auto 90%
