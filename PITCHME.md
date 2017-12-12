@@ -44,7 +44,7 @@ Tikidji-Hamburyan (2015) have also seen this
 @title[Switching occured in 28% of cells]
 ##### Switching occured in 28% of cells
 
-![](figures/switching_figA.png)
+![](figures/Switching_figA.png)
 ![](figures/switching_quantification.png)
 
 cite from TK paper (little box figure)
@@ -61,7 +61,7 @@ cite from TK paper (little box figure)
 @title[Switching occured between every pair of light levels]
 ##### Switching occured between every pair of light levels
 
-![](figures/switching_figB.png)
+![](figures/Switching_figB.png)
 ![](figures/switches_all_light_levels.png)
 
 ---
@@ -69,7 +69,7 @@ cite from TK paper (little box figure)
 @title[One cell can switch multiple times]
 ##### One cell can switch multiple times
 
-![](figures/switching_figC.png)
+![](figures/Switching_figC.png)
 ![](figures/multiple_switches_one_cell.png)
 
 ---
@@ -77,7 +77,7 @@ cite from TK paper (little box figure)
 @title[Switching is associated with spatial instability]
 ##### Switching is associated with spatial instability
 
-![](figures/switching_figC.png)
+![](figures/Switching_figC.png)
 <img src="figures/spatial_instability.png" alt="Spatial instability" width="600">
 
 ---
