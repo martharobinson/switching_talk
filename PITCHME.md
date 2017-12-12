@@ -145,12 +145,14 @@ A **rectifying terminal** that **hyperpolarizes with light**
 
 @title[Minimal model allows switching between any pair of light levels]
 <p><span class="menu-title slide-title">Minimal model of switching</span></p>
-<img src="figures/model_switching_between_diff_lightlevels.png" width="600">
+<img src="figures/model_switching_between_diff_lightlevels.png" height="700">
+
 ---
 @title[Minimal model allows one cell to switch multiple times]
 <p><span class="menu-title slide-title">Minimal model of switching</span></p>
-<img src="figures/model_switch_multiple_times.png" width="600">
-----
+<img src="figures/model_switch_multiple_times.png" height="300">
+
+---
 @title[Model summary]
 <p><span class="menu-title slide-title">Is the model sufficient?</span></p>
 
@@ -160,7 +162,7 @@ A **rectifying terminal** that **hyperpolarizes with light**
 - Switching is associated with spatial instability
 
 ---
-@title[Next steps]
+@title[Ongoing]
 <p><span class="menu-title slide-title">Next steps</span></p>
 - Identify switching terminals in mouse inner retina using GluSnFR
 - Peturb AII tonic input to cone bipolar cells - is switching reduced?
