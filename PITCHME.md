@@ -13,6 +13,7 @@ The retina has two main classes of input cells: rod and cone photoreceptors, tha
 Rod pathway is "parasitic" on cone pathway via AII cells.
 Classically, retina is thought to be separated into ON and OFF channels, is by receptor expression and by anatomy
 Give more background on who you are and where you're coming from and what your skills are, and less on making everyone understand the retina.
+I started this work because I was interested in how the rod and the cone pathways interact, particularly in "mesopic" vision where both pathways are active, and how this might be altered in disorders of vision where one or other pathway is absent.
 
 ---
 
@@ -38,6 +39,7 @@ Scalebar is 200um
 Note:
 Scalebar is 200um
 Tikidji-Hamburyan (2015) have also seen this
+Maybe also point to other egs of switches in ganglion cells
 
 ---
 
@@ -87,7 +89,7 @@ cite from TK paper (little box figure)
 - Switching was common (28%)
 - Swiching occured between every pair of light levels
 - One cell can switch multiple times
-- Switching is assocaited with spatial instability
+- Switching is associated with spatial instability
 
 Note:
 What mechanism could explain this? 
@@ -118,12 +120,17 @@ A **rectifying terminal** that **hyperpolarizes with light**
 ---
 @title[Minimal model allows one cell to switch multiple times]
 
+----
 @title[Model summary]
 ##### Summary
 - Switching was common (28%) ✅
 - Swiching occured between every pair of light levels ✅
 - One cell can switch multiple times ✅
 - Switching is associated with spatial instability
+
+---
+@title[Next steps]
+##### Next steps
 
 
 ---
