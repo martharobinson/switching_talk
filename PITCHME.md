@@ -75,10 +75,10 @@ Maybe also point to other egs of switches in ganglion cells
 @title[Summary]
 #### Summary
 
-    - Switching was common (28%)
-    - Swiching occured between every pair of light levels
-    - One cell can switch multiple times
-    - Switching is associated with spatial instability
+- Switching was common (28%)
+- Swiching occured between every pair of light levels
+- One cell can switch multiple times
+- Switching is associated with spatial instability
 
 Note:
 What mechanism could explain this? 
@@ -153,10 +153,10 @@ def rectifying_terminal_with_gap_junction(
 @title[Model summary]
 #### Is the model sufficient?
 
-    - Switching was common (28%) |
-    - Swiching occured between every pair of light levels |
-    - One cell can switch multiple times |
-    - Switching is associated with spatial instability |
+- Switching was common (28%) |
+- Swiching occured between every pair of light levels |
+- One cell can switch multiple times |
+- Switching is associated with spatial instability |
 
 Note:
 Common - widespread, basic retinal circuit
