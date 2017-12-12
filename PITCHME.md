@@ -15,10 +15,9 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 Give more background on who you are and where you're coming from and what your skills are, and less on making everyone understand the retina.
 I started this work because I was interested in how the rod and the cone pathways interact, particularly in "mesopic" vision where both pathways are active, and how this might be altered in disorders of vision where one or other pathway is absent.
 
----
+---?image=figures/experimental_outline.png&size=contain
 
 @title[Methods]
-<img src="figures/experimental_outline.png" alt="Methods" width="600">
 
 ---
 @title[Methods]
