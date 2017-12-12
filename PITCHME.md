@@ -45,13 +45,6 @@ cite from TK paper (little box figure)
 
 ---
 
-@title[Switching in the absence of rod or cone function]
-<p><span class="menu-title slide-title">Switching in the absence of rod or cone function</span></p>
-
-![](figures/switching_C57vsrd17_topll.png)
-
----
-
 @title[Switching occured between every pair of light levels]
 <p><span class="menu-title slide-title">Switching occured between every pair of light levels</span></p>
 
@@ -85,10 +78,11 @@ cite from TK paper (little box figure)
 Note:
 What mechanism could explain this? 
 Why do cells switch polarity?
+Really talk about how this seems like a nightmare for downstream neurons - if they care about polarity at all, how do they cope with their input neurons changing polarity seemingly willy-nilly? Can this switching encode something?
 ---
 
-@title[Minmial model of switching]
-<p><span class="menu-title slide-title">Minimal model of switching</span></p>
+@title[Switching also occurs at bipolar cell terminals]
+<p><span class="menu-title slide-title">Switching also occurs at bipolar cell terminals</span></p>
 ![](figures/basic_ia_model.png)
 cite from Odermatt 2012 paper
 
@@ -159,4 +153,9 @@ A **rectifying terminal** that **hyperpolarizes with light**
 @title[Questions?]
 ### Questions?
 
+---
 
+@title[Supplementary: Switching in the absence of rod or cone function]
+<p><span class="menu-title slide-title">Switching in the absence of rod or cone function</span></p>
+
+![](figures/switching_C57vsrd17_topll.png)
