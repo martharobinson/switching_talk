@@ -85,7 +85,7 @@ cite from TK paper (little box figure)
 ---
 
 @title[Summary]
-##### Summary
+<p><span class="menu-title slide-title">Summary of switching in the retina</span></p>
 - Switching was common (28%)
 - Swiching occured between every pair of light levels
 - One cell can switch multiple times
@@ -97,7 +97,7 @@ Why do cells switch polarity?
 ---
 
 @title[Minmial model of switching]
-##### Minimal model of switching
+<p><span class="menu-title slide-title">Minimal model of switching</span></p>
 ![](figures/basic_ia_model.png)
 cite from Odermatt 2012 paper
 
@@ -108,6 +108,7 @@ cite from Odermatt 2012 paper
 ---
 
 @title[Minimal model of switching]
+<p><span class="menu-title slide-title">Minimal model of switching</span></p>
 ```python
 def rectifying_terminal_with_gap_junction(
         vprior, input, dt):
@@ -137,11 +138,11 @@ def rectifying_terminal_with_gap_junction(
 @[19-22](Release is nonlinearly dependent on volatage)
 ---
 @title[Minimal model of switching]
-#### Minimal model of switching
+<p><span class="menu-title slide-title">Minimal model of switching</span></p>
 A **rectifying terminal** that **hyperpolarizes with light**
-<img src="figures/rectifying_terminal_only.png" width="300">
-<img src="figures/rectifying_terminal_inv_vm.png" width="300">
-<img src="figures/rectifying_terminal_hill_vm.png" width="300">
+<img src="figures/rectifying_terminal_only.png" width="300"> |
+<img src="figures/rectifying_terminal_inv_vm.png" width="300"> |
+<img src="figures/rectifying_terminal_hill_vm.png" width="300"> |
 
 ---
 
