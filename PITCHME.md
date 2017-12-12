@@ -80,18 +80,37 @@ Tikidji-Hamburyan (2015) have also seen this
 @title[Summary]
 ##### Summary
 - Switching was common (28%)
-- Swiching occured between every pair of light levels - no obvious pattern
+- Swiching occured between every pair of light levels
 - One cell can switch multiple times
 - Switching is assocaited with spatial instability
 
+##### What mechanism could explain this? 
+##### Why do cells switch polarity?
 ---
 
 @title[Minmial model of switching]
 ##### Minimal model of switching
 ![](figures/basic_ia_model.png)
+
+---
+
+@title[Minimal model of switching]
+![](figures/retina_circuit.png)
+
+---
+@title[Minimal model of switching]
 ![](figures/rectifying_terminal_only.png)
 ![](figures/rectifying_terminal_inv_vm.png)
 ![](figures/rectifying_terminal_hill_vm.png)
+
+---
+
+@title[Model summary]
+##### Summary
+- Switching was common (28%)  :white_check_mark:
+- Swiching occured between every pair of light levels  :white_check_mark:
+- One cell can switch multiple times  :white_check_mark:
+- Switching is assocaited with spatial instability
 
 ---
 
