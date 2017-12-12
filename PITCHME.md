@@ -108,9 +108,6 @@ cite from Odermatt 2012 paper
 ---
 
 @title[Minimal model of switching]
-
-<p><span class="menu-title slide-title">Test</span></p>
-
 ```python
 def rectifying_terminal_with_gap_junction(vprior, input, dt):
     iweight = 0.5 #input weight
