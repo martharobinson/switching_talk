@@ -61,7 +61,7 @@ cite from TK paper (little box figure)
 @title[Switching occured between every pair of light levels]
 ##### Switching occured between every pair of light levels
 
-![](figures/Switching_figB.png)
+![](figures/Switching_figD.png)
 ![](figures/switches_all_light_levels.png)
 
 ---
