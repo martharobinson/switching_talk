@@ -94,10 +94,13 @@ Why do cells switch polarity?
 
 @title[Model summary]
 ##### Summary
-- Switching was common (28%)  :white_check_mark:
-- Swiching occured between every pair of light levels  :white_check_mark:
-- One cell can switch multiple times  :white_check_mark:
+- Switching was common (28%) 
+- Swiching occured between every pair of light levels 
+- One cell can switch multiple times 
 - Switching is assocaited with spatial instability
+
+---?image=assets/bg.jpg&size=contain
+@title[Implications of the minimal model]
 
 ---
 
