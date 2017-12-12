@@ -19,9 +19,8 @@ I started this work because I was interested in how the rod and the cone pathway
 
 @title[Methods]
 
----
-@title[Characterising retinal receptive fields]
 ---?image=figures/NoSwitchcellegs_WT.png&size=auto 90%
+@title[Characterising retinal receptive fields]
 
 Note: 
 Scalebar is 200um
