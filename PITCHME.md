@@ -96,7 +96,8 @@ Vlasits = Individual voltage clamp sweeps at −72 mV holding potential showing 
 ---
 
 @title[Minimal model of switching]
-<img src="figures/retina_circuit.png&size" height="200">
+<p><span class="menu-title slide-title">Minimal model of switching</span></p>
+<img src="figures/retina_circuit.png" height="200">
 <img src="figures/Grimes_2014_ref.png" height="200">
 <img src="figures/basic_ia_model.png" height="200">
 
