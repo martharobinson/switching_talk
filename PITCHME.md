@@ -121,4 +121,4 @@ A **rectifying terminal** that **hyperpolarizes with light**
 ---
 
 @title[Supplementary Slide: Methods]
-<img src="figures/experimental_outline.png.png" alt="Methods" width="600">
+<img src="figures/experimental_outline.png" alt="Methods" width="600">
