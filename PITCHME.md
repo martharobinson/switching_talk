@@ -133,6 +133,7 @@ def rectifying_terminal_with_gap_junction(
     return vt, release
 ```
 @[13,14](Resting membrane potential hyperpolarizes with light)
+@[15-18](Terminal depolarizes with input, and decays back to Vm like a leaky IF cell)
 @[19-22](Release is nonlinearly dependent on volatage)
 ---
 @title[Minimal model of switching]
