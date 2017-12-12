@@ -108,7 +108,8 @@ cite from Odermatt 2012 paper
 ---
 
 @title[Minimal model of switching]
-```
+
+```python
 # We also know that cone ON bipolar cells resting membrane potential becomes more hyperpolaized with light, 
 # driven by gap junction coupled AII cells (which are in turn driven by rod bipolar cells)
 # Define a rectifying terminal where the resting membrane potential hyperpolarizes with light (defined by a Hill function)
