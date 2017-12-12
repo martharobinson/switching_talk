@@ -77,7 +77,6 @@ cite from TK paper (little box figure)
 ---
 
 @title[Summary]
-<p><span class="menu-title slide-title">Summary of switching in the retina</span></p>
 - Switching was common (28%)
 - Swiching occured between every pair of light levels
 - One cell can switch multiple times
@@ -93,7 +92,7 @@ Why do cells switch polarity?
 ![](figures/basic_ia_model.png)
 cite from Odermatt 2012 paper
 
----?image=figures/retina_circuit.png&size=contain
+---?image=figures/retina_circuit.png&size=auto 90%
 
 @title[Minimal model of switching]
 
