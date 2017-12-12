@@ -87,8 +87,7 @@ Really talk about how this seems like a nightmare for downstream neurons - if th
 @title[Switching also occurs at bipolar cell terminals]
 <p><span class="menu-title slide-title">Switching also occurs at bipolar cell terminals</span></p>
 <img src="figures/Odermatt_2012_ref.png" width="600">
-<br/><br/>
-<img src="figures/Vlasits_2014_ref.png" width="200">
+<br/><br/><img src="figures/Vlasits_2014_ref.png" height="250">
 
 Note:
 Odermatt = calcium indicator in bipolar cell terminals - SYGCAMP2 in zebrafish
