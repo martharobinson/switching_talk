@@ -2,22 +2,10 @@
 ## Lights on, lights off
 #### "switching" cells in the reina
 Martha Robinson
----
+
+---?image=figures/retina_circuit.png&size=contain
 
 @title[Introduction to the retina]
-
-## Overview of the retina
-
-+++?image=figures/retina_circuit.png&size=contain
-<!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png&size=contain
-<!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png&size=contain
-<!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png&size=contain
-<!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png&size=contain
-<!-- .slide: data-background-transition="none" -->
 
 Note:
 Just keep on to 3 key ideas:
@@ -29,8 +17,7 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 ---
 
 @title[Methods]
-##### Methods
-Experimental set-up and on and off cells
+##### Characterising retinal receptive fields
 
 <img src="figures/NoSwitchcellegs_WT.png" alt="Stable cells" width="600">
 
@@ -39,7 +26,7 @@ Scalebar is 200um
 
 ---
 
-@title[Some cells switch polarity]
+@title[Receptive fields can "switch" with light level]
 ##### Receptive fields can "switch" with light level
 
 <img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="600">
@@ -73,7 +60,7 @@ Tikidji-Hamburyan (2015) have also seen this
 @title[Switching is assocaited with spatial instability]
 ##### Switching is assocaited with spatial instability
 
-<img src="figures/spatial_instability.png" alt="Switching cells" width="600">
+<img src="figures/spatial_instability.png" alt="Spatial instability" width="600">
 
 ---
 
@@ -84,41 +71,54 @@ Tikidji-Hamburyan (2015) have also seen this
 - One cell can switch multiple times
 - Switching is assocaited with spatial instability
 
-##### What mechanism could explain this? 
-##### Why do cells switch polarity?
+Note:
+What mechanism could explain this? 
+Why do cells switch polarity?
 ---
 
 @title[Minmial model of switching]
 ##### Minimal model of switching
 ![](figures/basic_ia_model.png)
 
----
+---?image=figures/retina_circuit.png&size=contain
 
 @title[Minimal model of switching]
-![](figures/retina_circuit.png)
 
 ---
 @title[Minimal model of switching]
-![](figures/rectifying_terminal_only.png)
-![](figures/rectifying_terminal_inv_vm.png)
-![](figures/rectifying_terminal_hill_vm.png)
+#### Minimal model of switching
+A **rectifying terminal** that **hyperpolarizes with light**
+<img src="figures/rectifying_terminal_only.png" width="300">
+<img src="figures/rectifying_terminal_inv_vm.png" width="300">
+<img src="figures/rectifying_terminal_hill_vm.png" width="300">
 
 ---
 
 @title[Model summary]
 ##### Summary
-- Switching was common (28%)  :white_check_mark:
-- Swiching occured between every pair of light levels  :white_check_mark:
-- One cell can switch multiple times  :white_check_mark:
-- Switching is assocaited with spatial instability
+- Switching was common (28%) ✅
+- Swiching occured between every pair of light levels ✅
+- One cell can switch multiple times ✅
+- Switching is associated with spatial instability
+
+---?image=figures/retina_circuit.png&size=contain
+@title[Implications of the minimal model]
 
 ---
 
 @title[Does switching require rod input?]
+##### So, are rod signals required for switching?
 
-![](figures/switching_C57vsrd17.png)
 ![](figures/switching_C57vsrd17_topll.png)
 
 ---
 
-@title[Summary and conclusions]
+@title[Questions?]
+##### Questions?
+<img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="600">
+
+
+---
+
+@title[Supplementary Slide: Methods]
+<img src="figures/experimental_outline.png" alt="Methods" width="600">
