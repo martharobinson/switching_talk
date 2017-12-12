@@ -2,22 +2,10 @@
 ## Lights on, lights off
 #### "switching" cells in the reina
 Martha Robinson
----
+
+---?image=figures/retina_circuit.png&size=contain
 
 @title[Introduction to the retina]
-
-## Overview of the retina
-
-+++?image=figures/retina_circuit.png&size=contain
-<!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png&size=contain
-<!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png&size=contain
-<!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png&size=contain
-<!-- .slide: data-background-transition="none" -->
-+++?image=figures/retina_circuit.png&size=contain
-<!-- .slide: data-background-transition="none" -->
 
 Note:
 Just keep on to 3 key ideas:
@@ -40,7 +28,7 @@ Scalebar is 200um
 
 ---
 
-@title[Some cells switch polarity]
+@title[Receptive fields can "switch" with light level]
 ##### Receptive fields can "switch" with light level
 
 <img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="600">
@@ -74,7 +62,7 @@ Tikidji-Hamburyan (2015) have also seen this
 @title[Switching is assocaited with spatial instability]
 ##### Switching is assocaited with spatial instability
 
-<img src="figures/spatial_instability.png" alt="Switching cells" width="600">
+<img src="figures/spatial_instability.png" alt="Spatial instability" width="600">
 
 ---
 
@@ -85,24 +73,24 @@ Tikidji-Hamburyan (2015) have also seen this
 - One cell can switch multiple times
 - Switching is assocaited with spatial instability
 
-##### What mechanism could explain this? 
-##### Why do cells switch polarity?
+
+What mechanism could explain this? 
+Why do cells switch polarity?
 ---
 
 @title[Minmial model of switching]
 ##### Minimal model of switching
 ![](figures/basic_ia_model.png)
 
----
+---?image=assets/bg.jpg&size=contain
 
 @title[Minimal model of switching]
-![](figures/retina_circuit.png)
 
 ---
 @title[Minimal model of switching]
-![](figures/rectifying_terminal_only.png)
-![](figures/rectifying_terminal_inv_vm.png)
-![](figures/rectifying_terminal_hill_vm.png)
+<img src="figures/rectifying_terminal_only.png" width="200">
+<img src="figures/rectifying_terminal_inv_vm" width="200">
+<img src="figures/rectifying_terminal_hill_vm" width="200">
 
 ---
 
@@ -116,8 +104,8 @@ Tikidji-Hamburyan (2015) have also seen this
 ---
 
 @title[Does switching require rod input?]
+##### So, are rod signals required for switching?
 
-![](figures/switching_C57vsrd17.png)
 ![](figures/switching_C57vsrd17_topll.png)
 
 ---
