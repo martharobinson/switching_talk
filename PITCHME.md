@@ -69,7 +69,7 @@ cite from TK paper (little box figure)
 @title[One cell can switch multiple times]
 ##### One cell can switch multiple times
 
-![](figures/Switching_figC.png)
+![](figures/Switching_figB.png)
 ![](figures/multiple_switches_one_cell.png)
 
 ---
