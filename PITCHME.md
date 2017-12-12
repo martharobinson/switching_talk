@@ -43,6 +43,7 @@ Scalebar is 200um
 Note:
 Scalebar is 200um
 Tikidji-Hamburyan (2015) have also seen this
+They say: Overall, 89% of the OFF cells changed their responses at least once between ND8 and ND4. And over 50% of the cells they identified as ON did the same.
 Maybe also point to other egs of switches in ganglion cells
 
 ---
