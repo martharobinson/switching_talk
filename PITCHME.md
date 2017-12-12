@@ -109,6 +109,8 @@ cite from Odermatt 2012 paper
 
 @title[Minimal model of switching]
 
+<p><span class="menu-title slide-title">Test</span></p>
+
 ```python
 # We also know that cone ON bipolar cells resting membrane potential becomes more hyperpolaized with light, 
 # driven by gap junction coupled AII cells (which are in turn driven by rod bipolar cells)
