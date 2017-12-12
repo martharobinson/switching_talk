@@ -19,8 +19,6 @@ Classically, retina is thought to be separated into ON and OFF channels, is by r
 @title[Methods]
 ##### Characterising retinal receptive fields
 
-<img src="figures/experimental_outline.png" alt="Methods" width="600">
-
 <img src="figures/NoSwitchcellegs_WT.png" alt="Stable cells" width="600">
 
 Note: 
@@ -111,3 +109,9 @@ Why do cells switch polarity?
 ---
 
 @title[Summary and conclusions]
+
+
+---
+
+@title[Supplementary Slide: Methods]
+<img src="figures/experimental_outline.png.png" alt="Methods" width="600">
