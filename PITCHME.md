@@ -55,24 +55,24 @@ cite from TK paper (little box figure)
 @title[Switching occured between every pair of light levels]
 <p><span class="menu-title slide-title">Switching occured between every pair of light levels</span></p>
 
-![](figures/Switching_figD.png)
-![](figures/switches_all_light_levels.png)
+<img src="figures/Switching_figD.png" alt="Spatial instability" height="250">
+<img src="figures/switches_all_light_levels.png" alt="Spatial instability" height="250">
 
 ---
 
 @title[One cell can switch multiple times]
 <p><span class="menu-title slide-title">One cell can switch multiple times</span></p>
 
-![](figures/Switching_figB.png)
-![](figures/multiple_switches_one_cell.png)
+<img src="figures/Switching_figB.png" alt="Spatial instability" height="250">
+<img src="figures/multiple_switches_one_cell.png" alt="Spatial instability" height="250">
 
 ---
 
 @title[Switching is associated with spatial instability]
 <p><span class="menu-title slide-title">Switching is associated with spatial instability</span></p>
 
-![](figures/Switching_figC.png)
-<img src="figures/spatial_instability.png" alt="Spatial instability" width="600">
+<img src="figures/Switching_figC.png" alt="Spatial instability" height="250">
+<img src="figures/multiple_switches_one_cell.png" alt="Spatial instability" height="250">
 
 ---
 
