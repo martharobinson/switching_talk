@@ -87,6 +87,11 @@ Tikidji-Hamburyan (2015) have also seen this
 ---
 
 @title[Minmial model of switching]
+##### Minimal model of switching
+![](figures/basic_ia_model.png)
+![](figures/rectifying_terminal_only.png)
+![](figures/rectifying_terminal_inv_vm.png)
+![](figures/rectifying_terminal_hill_vm.png)
 
 ---
 
