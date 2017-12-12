@@ -86,8 +86,8 @@ Really talk about how this seems like a nightmare for downstream neurons - if th
 
 @title[Switching also occurs at bipolar cell terminals]
 <p><span class="menu-title slide-title">Switching also occurs at bipolar cell terminals</span></p>
-<img src="figures/Odermatt_2012_ref.png" width="500">
-<img src="figures/Vlasits_2014_ref.png" width="300">
+<img src="figures/Odermatt_2012_ref.png" width="700">
+<img src="figures/Vlasits_2014_ref.png" width="100">
 
 Note:
 Odermatt = calcium indicator in bipolar cell terminals - SYGCAMP2 in zebrafish
@@ -158,7 +158,12 @@ A **rectifying terminal** that **hyperpolarizes with light**
 ---
 @title[Next steps]
 <p><span class="menu-title slide-title">Next steps</span></p>
+- Identify switching terminals in mouse inner retina using GluSnFR
+- Peturb AII tonic input to cone bipolar cells - is switching reduced?
 
+Note:
+Gap junction blocker eg meclofenamic acid (MFA) (or connexin 36 knockout)
+Glycine blocker eg strychnine
 ---
 
 @title[Questions?]
