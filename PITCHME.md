@@ -112,33 +112,28 @@ cite from Odermatt 2012 paper
 <p><span class="menu-title slide-title">Test</span></p>
 
 ```python
-# We also know that cone ON bipolar cells resting membrane potential becomes more hyperpolaized with light, 
-# driven by gap junction coupled AII cells (which are in turn driven by rod bipolar cells)
-# Define a rectifying terminal where the resting membrane potential hyperpolarizes with light (defined by a Hill function)
 def rectifying_terminal_with_gap_junction(vprior, input, dt):
-    # inputs: vprior: the membrane potential at the previous timestep
-    # input: stimulus input
-    # dt: the timestep
-    iweight = 0.5 # how much to weight input by for driving excitation
-    islope = 20.0 #10.0 # set how steep the slope of the Hill function is
-    ih = 5.0 # set half-saturation point of the Hill function
-    aslope = 3
-    ah = 3
-    aweight = 1# how much to weight input by for driving this gap junction voltage
-    #calcuate the voltage "input" from antagonistic component (i.e. coupled AII cell)
-    antagv = (input*aweight)**-aslope/((input*aweight)**-aslope + ah**-aslope)
-    antagweight = 5# how much to scale the 0:1 output of antagv by
-    taum = 10 # decay time constant
-    # decay the membrane potential back to rest with some constant 
-    # and add the input representing excitatory synaptic input
-    vinf = (antagv*antagweight) + (input*iweight)
+    iweight = 0.5 #input weight
+    islope = 20.0 #rectifying terminal Hill slope
+    ih = 5.0 #rectifying terminal half-saturation point
+    aweight = 1.0 #"gap junction" weight 
+    aslope = 3.0 #Vm Hill slope
+    ah = 3.0 # Vm half-saturation point
+    vmweight = 5.0 #scale Vm
+    taum = 10.0 #decay time constant
+    #calcuate the Vm set by "gap junction"
+    vm = (input*aweight)**-aslope/((input*aweight)**-aslope + ah**-aslope 
+    #and add the input
+    vinf = (vm*vmweight) + (input*iweight)
+    #decay the membrane potential back to vm
     vt = vinf + (vprior - vinf)*np.exp(-dt/taum)
-    # calculate release using Hill equation (sigmoidal)
+    #calculate release using Hill equation (sigmoidal)
     release = vt**islope/(vt**islope + ih**islope)
-    # return release directly, as bipolar ribbon synapses are graded
+    #return release directly, as bipolar ribbon synapses are graded
     return vt, release
 ```
-
+@[10,11] Resting membrane potential hyperpolarizes with light
+@[16-19] Release is nonlinearly dependent on volatage (Hill function)
 ---
 @title[Minimal model of switching]
 #### Minimal model of switching
