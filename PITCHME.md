@@ -6,16 +6,20 @@ Martha Robinson
 ---?image=figures/retina_circuit.png&size=contain
 
 @title[Introduction to the retina]
-
 Note:
 Just keep on to 3 key ideas:
 The retina needs to operate and signal meaningfully over a large range of environmental light levels
 The retina has two main classes of input cells: rod and cone photoreceptors, that are specialised to dim light and bright light
 Rod pathway is "parasitic" on cone pathway via AII cells.
 Classically, retina is thought to be separated into ON and OFF channels, is by receptor expression and by anatomy
+Give more background on who you are and where you're coming from and what your skills are, and less on making everyone understand the retina.
 
 ---
 
+@title[Methods]
+<img src="figures/experimental_outline.png" alt="Methods" width="600">
+
+---
 @title[Methods]
 ##### Characterising retinal receptive fields
 
@@ -40,12 +44,24 @@ Tikidji-Hamburyan (2015) have also seen this
 @title[Switching occured in 28% of cells]
 ##### Switching occured in 28% of cells
 
+![](figures/Switching_figA.png)
 ![](figures/switching_quantification.png)
+
+cite from TK paper (little box figure)
+
+---
+
+@title[Switching in the absence of rod or cone function]
+##### Switching in the absence of rod or cone function
+
+![](figures/switching_C57vsrd17_topll.png)
+
 ---
 
 @title[Switching occured between every pair of light levels]
 ##### Switching occured between every pair of light levels
 
+![](figures/Switching_figB.png)
 ![](figures/switches_all_light_levels.png)
 
 ---
@@ -53,13 +69,15 @@ Tikidji-Hamburyan (2015) have also seen this
 @title[One cell can switch multiple times]
 ##### One cell can switch multiple times
 
+![](figures/Switching_figB.png)
 ![](figures/multiple_switches_one_cell.png)
 
 ---
 
-@title[Switching is assocaited with spatial instability]
-##### Switching is assocaited with spatial instability
+@title[Switching is associated with spatial instability]
+##### Switching is associated with spatial instability
 
+![](figures/Switching_figC.png)
 <img src="figures/spatial_instability.png" alt="Spatial instability" width="600">
 
 ---
@@ -79,6 +97,7 @@ Why do cells switch polarity?
 @title[Minmial model of switching]
 ##### Minimal model of switching
 ![](figures/basic_ia_model.png)
+cite from Odermatt 2012 paper
 
 ---?image=figures/retina_circuit.png&size=contain
 
@@ -94,6 +113,11 @@ A **rectifying terminal** that **hyperpolarizes with light**
 
 ---
 
+@title[Minimal model allows switching between any pair of light levels]
+
+---
+@title[Minimal model allows one cell to switch multiple times]
+
 @title[Model summary]
 ##### Summary
 - Switching was common (28%) ✅
@@ -101,15 +125,6 @@ A **rectifying terminal** that **hyperpolarizes with light**
 - One cell can switch multiple times ✅
 - Switching is associated with spatial instability
 
----?image=figures/retina_circuit.png&size=contain
-@title[Implications of the minimal model]
-
----
-
-@title[Does switching require rod input?]
-##### So, are rod signals required for switching?
-
-![](figures/switching_C57vsrd17_topll.png)
 
 ---
 
@@ -118,7 +133,3 @@ A **rectifying terminal** that **hyperpolarizes with light**
 <img src="figures/WT_ONOFF_SwitchingCells_EgFilters.png" alt="Switching cells" width="600">
 
 
----
-
-@title[Supplementary Slide: Methods]
-<img src="figures/experimental_outline.png" alt="Methods" width="600">
