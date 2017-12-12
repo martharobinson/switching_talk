@@ -25,7 +25,7 @@ I started this work because I was interested in how the rod and the cone pathway
 Note: 
 Scalebar is 200um
 
----?image=figures/WT_ONOFF_SwitchingCells_EgFilters.png.png&size=auto 90%
+---?image=figures/WT_ONOFF_SwitchingCells_EgFilters.png&size=auto 90%
 @title[Receptive fields can "switch" with light level]
 
 Note:
@@ -38,8 +38,8 @@ Maybe also point to other egs of switches in ganglion cells
 @title[Switching occured in 28% of cells]
 <p><span class="menu-title slide-title">Switching occured in 28% of cells</span></p>
 
-![](figures/Switching_figA.png)
-![](figures/switching_quantification.png)
+<img src="figures/Switching_figA.png" alt="Spatial instability" width="600">
+<img src="figures/switching_quantification.png" alt="Spatial instability" width="300">
 
 cite from TK paper (little box figure)
 
@@ -158,6 +158,6 @@ A **rectifying terminal** that **hyperpolarizes with light**
 ---
 
 @title[Questions?]
-# Questions?
+### Questions?
 
 
