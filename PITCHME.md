@@ -86,17 +86,19 @@ Why do cells switch polarity?
 
 ---
 @title[Minimal model of switching]
-<img src="figures/rectifying_terminal_only.png" width="325">
-<img src="figures/rectifying_terminal_inv_vm.png" width="325">
-<img src="figures/rectifying_terminal_hill_vm.png" width="325">
+#### Minimal model of switching
+A **rectifying terminal** and **hyperpolarization with light** is sufficient to create switching behaviour.
+<img src="figures/rectifying_terminal_only.png" width="300">
+<img src="figures/rectifying_terminal_inv_vm.png" width="300">
+<img src="figures/rectifying_terminal_hill_vm.png" width="300">
 
 ---
 
 @title[Model summary]
 ##### Summary
-- Switching was common (28%) 
-- Swiching occured between every pair of light levels 
-- One cell can switch multiple times 
+- Switching was common (28%) ✅
+- Swiching occured between every pair of light levels ✅
+- One cell can switch multiple times ✅
 - Switching is assocaited with spatial instability
 
 ---?image=figures/retina_circuit.png&size=contain
