@@ -30,8 +30,6 @@ Scalebar is 200um
 
 Note:
 Scalebar is 200um
-Tikidji-Hamburyan (2015) have also seen this
-Maybe also point to other egs of switches in ganglion cells
 
 ---
 
@@ -40,8 +38,13 @@ Maybe also point to other egs of switches in ganglion cells
 
 <img src="figures/Switching_figA.png" alt="Spatial instability" height="250">
 <img src="figures/switching_quantification.png" alt="Spatial instability" height="250">
+<img src="figures/TH_2015_ref.png" alt="Spatial instability" height="250" class="fragment">
 
-cite from TK paper (little box figure)
+Note:
+Scalebar is 200um
+Tikidji-Hamburyan (2015) have also seen this
+They say: Overall, 89% of the OFF cells changed their responses at least once between ND8 and ND4. And over 50% of the cells they identified as ON did the same.
+Maybe also point to other egs of switches in ganglion cells
 
 ---
 
@@ -125,7 +128,7 @@ def rectifying_terminal_with_gap_junction(
 @title[Minimal model of switching]
 <p><span class="menu-title slide-title">Minimal model of switching</span></p>
 A **rectifying terminal** that **hyperpolarizes with light**
-<img src="figures/rectifying_terminal_only.png" width="350" class="fragment">
+<img src="figures/rectifying_terminal_only.png" width="350"  class="fragment">
 <img src="figures/rectifying_terminal_hill_vm.png" width="350" class="fragment">
 
 ---
