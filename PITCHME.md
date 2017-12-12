@@ -141,9 +141,7 @@ def rectifying_terminal_with_gap_junction(
 <p><span class="menu-title slide-title">Minimal model of switching</span></p>
 A **rectifying terminal** that **hyperpolarizes with light**
 <img src="figures/rectifying_terminal_only.png" width="300" class="fragment">
-<li class="fragment"><img src="figures/rectifying_terminal_inv_vm.png" width="300"></li>
-<li class="fragment"><img src="figures/rectifying_terminal_hill_vm.png" width="300"></li>
-</ul>
+<img src="figures/rectifying_terminal_hill_vm.png" width="300" class="fragment">
 
 ---
 
