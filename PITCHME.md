@@ -73,10 +73,12 @@ Maybe also point to other egs of switches in ganglion cells
 ---
 
 @title[Summary]
-- Switching was common (28%)
-- Swiching occured between every pair of light levels
-- One cell can switch multiple times
-- Switching is associated with spatial instability
+#### Summary
+
+    - Switching was common (28%)
+    - Swiching occured between every pair of light levels
+    - One cell can switch multiple times
+    - Switching is associated with spatial instability
 
 Note:
 What mechanism could explain this? 
@@ -151,20 +153,24 @@ def rectifying_terminal_with_gap_junction(
 @title[Model summary]
 #### Is the model sufficient?
 
-- Common | 
--- ✅ widespread, basic retinal circuit |
-- Occured between every pair of light levels |
--- ✅ small differences in one component can shift switch along light levels |
-- Could occur multiple times in one cell |
--- ✅ model terminals can switch multiple times |
-- Associated with spatial instability |
--- likely, as multiple terminals make up spatial receptive field of ganglion cells |
+    - Switching was common (28%) |
+    - Swiching occured between every pair of light levels |
+    - One cell can switch multiple times |
+    - Switching is associated with spatial instability |
+
+Note:
+Common - widespread, basic retinal circuit
+Occured between every pair of light levels- small differences in one component can shift switch along light levels 
+Could occur multiple times in one cell- model terminals can switch multiple times
+Associated with spatial instability- likely, as multiple terminals make up spatial receptive field of ganglion cells
 
 ---
 @title[Ongoing]
 #### Ongoing work
-- Identify switching terminals in mouse inner retina using GluSnFR
-- Peturb AII tonic input to cone bipolar cells - is switching reduced?
+
+* Test this minimal model
+    - Identify switching terminals in mouse inner retina using GluSnFR
+    - Peturb AII tonic input to cone bipolar cells - is switching reduced?
 
 Note:
 Gap junction blocker eg meclofenamic acid (MFA) (or connexin 36 knockout)
