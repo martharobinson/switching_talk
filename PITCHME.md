@@ -71,7 +71,7 @@ Tikidji-Hamburyan (2015) have also seen this
 - One cell can switch multiple times
 - Switching is assocaited with spatial instability
 
-
+Note:
 What mechanism could explain this? 
 Why do cells switch polarity?
 ---
@@ -99,7 +99,7 @@ A **rectifying terminal** and **hyperpolarization with light** is sufficient to 
 - Switching was common (28%) ✅
 - Swiching occured between every pair of light levels ✅
 - One cell can switch multiple times ✅
-- Switching is assocaited with spatial instability
+- Switching is associated with spatial instability
 
 ---?image=figures/retina_circuit.png&size=contain
 @title[Implications of the minimal model]
