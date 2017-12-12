@@ -86,9 +86,9 @@ Why do cells switch polarity?
 
 ---
 @title[Minimal model of switching]
-<img src="figures/rectifying_terminal_only.png" width="200">
-<img src="figures/rectifying_terminal_inv_vm" width="200">
-<img src="figures/rectifying_terminal_hill_vm" width="200">
+<img src="figures/rectifying_terminal_only.png" width="300">
+<img src="figures/rectifying_terminal_inv_vm.png" width="300">
+<img src="figures/rectifying_terminal_hill_vm.png" width="300">
 
 ---
 
