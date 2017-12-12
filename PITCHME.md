@@ -3,7 +3,7 @@
 #### "switching" cells in the reina
 Martha Robinson
 
----?image=figures/retina_circuit.png&size=contain
+---?image=figures/retina_circuit.png&size=auto 90%
 
 @title[Introduction to the retina]
 Note:
@@ -20,10 +20,8 @@ I started this work because I was interested in how the rod and the cone pathway
 @title[Methods]
 
 ---
-@title[Methods]
-##### Characterising retinal receptive fields
-
-<img src="figures/NoSwitchcellegs_WT.png" alt="Stable cells" width="600">
+@title[Characterising retinal receptive fields]
+---?image=figures/NoSwitchcellegs_WT.png&size=auto 90%
 
 Note: 
 Scalebar is 200um
