@@ -189,4 +189,4 @@ Glycine blocker eg strychnine
 ![](figures/switching_C57vscpfl1_botll.png)
 
 ---?image=figures/light_levels.png&size=auto 90%
-@[Supplemenary: Light levels]
+@title[Supplemenary: Light levels]
