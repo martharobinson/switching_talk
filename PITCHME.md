@@ -143,20 +143,22 @@ def rectifying_terminal_with_gap_junction(
 ---?image=figures/model_switching_between_diff_lightlevels.png&size=auto 90%
 
 @title[Minimal model allows switching between any pair of light levels]
-<p><span class="menu-title slide-title">Minimal model of switching</span></p>
 
 ---
 @title[Minimal model allows one cell to switch multiple times]
-<p><span class="menu-title slide-title">Minimal model of switching</span></p>
 ![](figures/model_switch_multiple_times.png)
 ---
 @title[Model summary]
-<p><span class="menu-title slide-title">Is the model sufficient?</span></p>
+#### Is the model sufficient?
 
-- Switching was common (28%) ✅
-- Swiching occured between every pair of light levels ✅
-- One cell can switch multiple times ✅
-- Switching is associated with spatial instability
+- Common | 
+✅ widespread, basic retinal circuit |
+- Occured between every pair of light levels |
+✅ small differences in one component can shift switch along light levels |
+- Could occur multiple times in one cell |
+✅ model terminals can switch multiple times |
+- Associated with spatial instability |
+likely, as multiple terminals make up spatial receptive field of ganglion cells
 
 ---
 @title[Ongoing]
