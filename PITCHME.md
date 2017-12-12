@@ -110,6 +110,7 @@ cite from Odermatt 2012 paper
 @title[Minimal model of switching]
 ```python
 def rectifying_terminal_with_gap_junction(vprior, input, dt):
+    #define constants
     iweight = 0.5 #input weight
     islope = 20.0 #rectifying terminal Hill slope
     ih = 5.0 #rectifying terminal half-saturation point
@@ -118,19 +119,21 @@ def rectifying_terminal_with_gap_junction(vprior, input, dt):
     ah = 3.0 # Vm half-saturation point
     vmweight = 5.0 #scale Vm
     taum = 10.0 #decay time constant
+    #weight input for "gap junction"
+    gi = input*aweight
     #calcuate the Vm set by "gap junction"
-    vm = (input*aweight)**-aslope/((input*aweight)**-aslope + ah**-aslope 
+    vm = gi**-aslope/(gi**-aslope + ah**-aslope) 
     #and add the input
     vinf = (vm*vmweight) + (input*iweight)
     #decay the membrane potential back to vm
     vt = vinf + (vprior - vinf)*np.exp(-dt/taum)
     #calculate release using Hill equation (sigmoidal)
     release = vt**islope/(vt**islope + ih**islope)
-    #return release directly, as bipolar ribbon synapses are graded
+    #return graded release directly
     return vt, release
 ```
-@[10,11] Resting membrane potential hyperpolarizes with light
-@[16-19] Release is nonlinearly dependent on volatage (Hill function)
+@[13,14](Resting membrane potential hyperpolarizes with light)
+@[19-22](Release is nonlinearly dependent on volatage)
 ---
 @title[Minimal model of switching]
 #### Minimal model of switching
