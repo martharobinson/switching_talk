@@ -144,10 +144,8 @@ def rectifying_terminal_with_gap_junction(
 
 @title[Minimal model allows switching between any pair of light levels]
 
----
+---?image=figures/model_switch_multiple_times.png&size=auto 90%
 @title[Minimal model allows one cell to switch multiple times]
-<p><span class="menu-title slide-title">Minimal model of switching</span></p>
-<img src="figures/model_switch_multiple_times.png" width="600">
 
 ---
 @title[Model summary]
@@ -160,7 +158,7 @@ def rectifying_terminal_with_gap_junction(
 
 ---
 @title[Ongoing]
-<p><span class="menu-title slide-title">Next steps</span></p>
+#### Ongoing work
 - Identify switching terminals in mouse inner retina using GluSnFR
 - Peturb AII tonic input to cone bipolar cells - is switching reduced?
 
