@@ -144,10 +144,12 @@ A **rectifying terminal** that **hyperpolarizes with light**
 ---
 
 @title[Minimal model allows switching between any pair of light levels]
-
+<p><span class="menu-title slide-title">Minimal model of switching</span></p>
+<img src="figures/model_switching_between_diff_lightlevels.png" width="600">
 ---
 @title[Minimal model allows one cell to switch multiple times]
-
+<p><span class="menu-title slide-title">Minimal model of switching</span></p>
+<img src="figures/model_switch_multiple_times.png" width="600">
 ----
 @title[Model summary]
 <p><span class="menu-title slide-title">Is the model sufficient?</span></p>
@@ -178,3 +180,6 @@ Glycine blocker eg strychnine
 
 ![](figures/switching_C57vsrd17_topll.png)
 ![](figures/switching_C57vscpfl1_botll.png)
+
+---?image=figures/light_levels.png&size=auto 90%
+@[Supplemenary: Light levels]
