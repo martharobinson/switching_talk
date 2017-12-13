@@ -3,11 +3,11 @@
 #### "switching" cells in the reina
 Martha Robinson
 
----?image=figures/retina_circuit.png&size=auto 90%
-
 Note:
 Work at inst opthal
 Currently study how the retina processes visual information, and how this can be disrupted in disorders that cause vision loss.
+
+---?image=figures/retina_circuit.png&size=auto 90%
 
 @title[Introduction]
 Note:
