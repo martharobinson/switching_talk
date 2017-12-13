@@ -227,6 +227,7 @@ Associated with spatial instability- likely, as multiple terminals make up spati
     - Peturb AII tonic input to cone bipolar cells - is switching reduced?
 
 Note:
+7m8 capsid, GluSnFR under GRM6 promotor
 Gap junction blocker eg meclofenamic acid (MFA) (or connexin 36 knockout)
 Glycine blocker eg strychnine
 ---
