@@ -94,7 +94,7 @@ Additionally, retinal ganglion cells could switch more than once. Eg. going from
 <p><span class="menu-title slide-title">Switching is associated with spatial instability</span></p>
 
 <img src="figures/Switching_figC.png" alt="Spatial instability" height="250">
-<img src="figures/multiple_switches_one_cell.png" alt="Spatial instability" height="250">
+<img src="figures/spatial_instability.png" alt="Spatial instability" height="250">
 
 Note: 
 Finally, I saw that switching was associated with spatial instability. I had ganglion cells with receptive fields that changed their spatial properties with light level, and these cells were more likely to also exhibit a polarity switch. Suggests this is something that is not affecting all the subunits that combine to make a ganglion cell RF equally.
