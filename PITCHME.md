@@ -43,19 +43,19 @@ Everything is zscore normalized for presentation (to have 0 mean and unit std), 
 Note:
 So, while I was doing this work, looking at mesopic vision in wild types vs our disease models, I saw something that was initially quite upsetting. My carefully spike sorted single units weren't looking like I'd expected them to. Their receptive fields seemed to change as the light levels changed. Even to the point where they would go from looking like and ON cell too looking like and OFF cell.
 Scalebar is 200um
-Shown are the same 3 cells at different light levels 
+Shown are the same 3 cells at different light levels
 Each pixel represents deflection from the mean background pixel (white, as white noise)
 Each timestep is the mean frame that preceeded a spike that many ms before the spike
 Everything is zscore normalized for presentation (to have 0 mean and unit std), and scaled to the minimum and maximum values I saw, respectively.
 
 ---
 
-@title[Switching occured in 28% of cells]
-<p><span class="menu-title slide-title">Switching occured in 28% of cells</span></p>
+@title[Switching occurred in over 20% of cells]
+<p><span class="menu-title slide-title">Switching occurred in 28% of cells</span></p>
 
-<img src="figures/Switching_figA.png" alt="Spatial instability" height="250">
-<img src="figures/switching_quantification.png" alt="Spatial instability" height="250">
-<img src="figures/TH_2015_ref.png" alt="Spatial instability" height="250" class="fragment">
+<img src="figures/Switching_figA.png" alt="Switching example" height="250">
+<img src="figures/switching_quantification.png" alt="Switching quantification" height="250">
+<img src="figures/TH_2015_ref.png" alt="Supporting data" height="250" class="fragment">
 
 Note:
 This behaviour was very common.
@@ -68,13 +68,13 @@ They patched anatomically identified ON and OFF cells and showed that this pheno
 
 ---
 
-@title[Switching occured between every pair of light levels]
-<p><span class="menu-title slide-title">Switching occured between every pair of light levels</span></p>
+@title[Switching occurred between every pair of light levels]
+<p><span class="menu-title slide-title">Switching occurred between every pair of light levels</span></p>
 
-<img src="figures/Switching_figD.png" alt="Spatial instability" height="250">
+<img src="figures/Switching_figD.png" alt="Switching between multiple light levels" height="250">
 <img src="figures/switches_all_light_levels.png" alt="Spatial instability" height="250">
 
-Note: 
+Note:
 Switching occured between every pair of light levels, without a clear pattern. It's not something as straightforward as a change that happens at cone threshold, for example. Although I was most likely to see a switch when comparing my lowest and my highest light levels.
 
 ---
@@ -82,10 +82,10 @@ Switching occured between every pair of light levels, without a clear pattern. I
 @title[One cell can switch multiple times]
 <p><span class="menu-title slide-title">One cell can switch multiple times</span></p>
 
-<img src="figures/Switching_figB.png" alt="Spatial instability" height="250">
-<img src="figures/multiple_switches_one_cell.png" alt="Spatial instability" height="250">
+<img src="figures/Switching_figB.png" alt="Multiple switches in one cell example" height="250">
+<img src="figures/multiple_switches_one_cell.png" alt="Quantification of single cells switching multiple times" height="250">
 
-Note: 
+Note:
 Additionally, retinal ganglion cells could switch more than once. Eg. going from ON to OFF to back again. Given I was only using 5 light levels in these experiments (i.e. an opportunity to switch 4 times maximum) this is particularly impressive and again suggests that switching is common (if I can see so much of it when I should be undersampling it). It also suggests that there's not necessarily one event that occurs as the light level increases or decreases that defines a switch - it's something that can happen between multiple light levels within one ganglion cell.
 
 ---
@@ -94,9 +94,9 @@ Additionally, retinal ganglion cells could switch more than once. Eg. going from
 <p><span class="menu-title slide-title">Switching is associated with spatial instability</span></p>
 
 <img src="figures/Switching_figC.png" alt="Spatial instability" height="250">
-<img src="figures/spatial_instability.png" alt="Spatial instability" height="250">
+<img src="figures/spatfreq_switchingvsnotswitching.png" alt="Spatial instability" height="250">
 
-Note: 
+Note:
 Finally, I saw that switching was associated with spatial instability. I had ganglion cells with receptive fields that changed their spatial properties with light level, and these cells were more likely to also exhibit a polarity switch. Suggests this is something that is not affecting all the subunits that combine to make a ganglion cell RF equally.
 
 ---
@@ -110,13 +110,9 @@ Finally, I saw that switching was associated with spatial instability. I had gan
 - Switching is associated with spatial instability
 
 Note:
-<<<<<<< HEAD
-What mechanism could explain this?
-=======
 So, to summarise.
 So, having seen this phenomenon in my data, I got quite invested in trying to explain it.
-What mechanism could explain this? 
->>>>>>> ae594b0ae186b16ab853585f658fb143ffd3e5d4
+What mechanism could explain this?
 Why do cells switch polarity?
 Really talk about how this seems like a nightmare for downstream neurons - if they care about polarity at all, how do they cope with their input neurons changing polarity seemingly willy-nilly? Can this switching encode something? If not, what does that mean for how we understand retinal encoding?
 
@@ -142,7 +138,7 @@ Vlasits = Individual voltage clamp sweeps at −72 mV holding potential showing 
 <br/>
 <img src="figures/basic_ia_model.png" height="200">
 
-Note: 
+Note:
 To make any cell switch it's receptive field, very simply you need two components that oppose eachother, where sometimes one "wins" and sometimes another "wins" -- or, two components that combine to form a nonlinearity that describes your switch.
 Odermatt et al., proposed this basic model of an intrinsic and antagonistic nonlinearity combinining to make a switching terminal. I suggest a biological basis for it: intrinsic is the rectifying bipolar cell terminal, described by Hill sigmoid (often used to v simply model the calcium channels here), and the antagonistic is the bipolar membrane potential, which drifts in opposition to the photoreceptor cell driven bipolar responses.
 Grimes et al have already shown that this drift can cause a change in spatial encoding at ganglion cells, due to rectification at the bipolar cell terminal - essentially, switching could be just a form of rectification.
@@ -218,7 +214,7 @@ Again, as proof of principle, this minimal model can also switch more than once,
 
 Note:
 Common - widespread, basic retinal circuit
-Occured between every pair of light levels- small differences in one component can shift switch along light levels 
+Occured between every pair of light levels- small differences in one component can shift switch along light levels
 Could occur multiple times in one cell- model terminals can switch multiple times
 Associated with spatial instability- likely, as multiple terminals make up spatial receptive field of ganglion cells
 
