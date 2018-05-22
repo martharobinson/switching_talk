@@ -160,18 +160,13 @@ Note:
 Rectifying terminal w/o membrane potential drift doesn't switch. Saturates.
 When you add resting membrane potential hyperpolarization, switching occurs. You can also see that the dynamic range of the terminal is being made better use of, suggesting that "switching" might serve a purpose of increasing the contrast range a terminal can reliably detect/respond to.
 
----?image=figures/model_switching_between_diff_lightlevels.png&size=auto 90%
+---?image=figures/model_matches_biology_summary.png&size=auto 90%
 
-@title[Minimal model allows switching between any pair of light levels]
+@title[Minimal model replicates in vivo observations]
 
 Note:
 Early stages, but as proof of principle. Just adjusting one parameter of the minimal model - here ah, the half saturation point for the "antagonistic" nonlinearity, you can make otherwise identical "terminals" switch at different stimulus intensities. Proof of principle that these two components are theoretically sufficient.
 
----
-@title[Minimal model allows one cell to switch multiple times]
-![](figures/model_switch_multiple_times.png)
-
-Note:
 Again, as proof of principle, this minimal model can also switch more than once, just with these two components.
 Switching was common
 Switching occurred between every pair of light levels
@@ -182,6 +177,7 @@ Common - widespread, basic retinal circuit
 Occurred between every pair of light levels- small differences in one component can shift switch along light levels
 Could occur multiple times in one cell- model terminals can switch multiple times
 Associated with spatial instability- likely, as multiple terminals make up spatial receptive field of ganglion cells
+
 
 ---
 @title[Ongoing]
