@@ -115,18 +115,6 @@ Really talk about how this seems like a nightmare for downstream neurons - if th
 
 ---
 
-@title[Switching also occurs at bipolar cell terminals]
-<p><span class="menu-title slide-title">Switching also occurs at bipolar cell terminals</span></p>
-<img src="figures/Odermatt_2012_ref.png" width="600">
-<br/>
-<img src="figures/Vlasits_2014_ref.png" height="250">
-
-Note:
-So, switching between functional ON and OFF responses with light levels has also been reported in bipolar cell terminals of fish, and in starburst amacrine cells in mouse through a mechanism that depends on a ON bipolar cell. It's perfectly possible that there are multiple points where switching occurs in the retina, and that bipolar terminal switches don't explain all ganglion cell switches, but if we're looking for some kind of minimal model, it should be able to explain bipolar cell switching too.
-Odermatt = calcium indicator in bipolar cell terminals - SYGCAMP2 in zebrafish
-Vlasits = Individual voltage clamp sweeps at −72 mV holding potential showing the excitatory current during presentation of a 2 s light flash (yellow bar) in an On-SAC before and after repetitive stimulation. Light adaptation causes a switch in the starburst amacrine cell, which is blocked by L-AP4 and therefore driven by an ON bipolar cell.
-
----
 
 @title[Minimal model of switching]
 <p><span class="menu-title slide-title">Minimal model of switching</span></p>
@@ -140,10 +128,13 @@ To make any cell switch it's receptive field, very simply you need two component
 Odermatt et al., proposed this basic model of an intrinsic and antagonistic nonlinearity combinining to make a switching terminal. I suggest a biological basis for it: intrinsic is the rectifying bipolar cell terminal, described by Hill sigmoid (often used to v simply model the calcium channels here), and the antagonistic is the bipolar membrane potential, which drifts in opposition to the photoreceptor cell driven bipolar responses.
 Grimes et al have already shown that this drift can cause a change in spatial encoding at ganglion cells, due to rectification at the bipolar cell terminal - essentially, switching could be just a form of rectification.
 
+The two components could come from many sources - but are they sufficient to explain the data so far?
+
 ---
 
 @title[Minimal model of switching]
 <p><span class="menu-title slide-title">Minimal model of switching</span></p>
+<img src="figures/basic_ia_model.png" height="200">
 ```python
 def rectifying_terminal_with_gap_junction(
         vprior, input, dt):
