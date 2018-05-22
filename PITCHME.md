@@ -166,7 +166,7 @@ When you add resting membrane potential hyperpolarization, switching occurs. You
 
 <p><span class="menu-title slide-title">Minimal model replicates in vivo observations</span></p>
 
-<img src="figures/model_matches_biology_summary.png" alt="Minimal model replicates in vivo observations" height="250">
+<img src="figures/model_matches_biology_summary.png" alt="Minimal model replicates in vivo observations" height="500">
 
 
 Note:
