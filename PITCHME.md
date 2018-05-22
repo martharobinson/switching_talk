@@ -235,17 +235,16 @@ Glycine blocker eg strychnine
 ---
 @title{Acknowledgements}
 #### Acknowledgements
-Dr Kate Powell
-Dr Matteo Rizzi
+- Dr Kate Powell
+- Dr Matteo Rizzi
+- Dr Mark Basche
+- Dr Sander Smith
+- Dr Sungho Hong
+- Professor Robin Ali
 
-Dr Mark Basche
-Dr Sander Smith
-Dr Sungho Hong
-Professor Robin Ali
-
-<img src="figures/mrc_logo.jpg">
-<img src="figures/CSN_logo.jpg">
-<img src="figures/oist_logo.jpeg">
+<img src="figures/mrc_logo.jpg", width="350">
+<img src="figures/CSN_logo.jpg", width="350">
+<img src="figures/oist_logo.jpeg", width="350">
 
 ---
 
