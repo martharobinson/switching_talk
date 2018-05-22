@@ -233,7 +233,7 @@ Gap junction blocker eg meclofenamic acid (MFA) (or connexin 36 knockout)
 Glycine blocker eg strychnine
 
 ---
-@title{Acknowledgements}
+@title[Acknowledgements]
 #### Acknowledgements
 - Dr Kate Powell
 - Dr Matteo Rizzi
@@ -242,9 +242,9 @@ Glycine blocker eg strychnine
 - Dr Sungho Hong
 - Professor Robin Ali
 
-<img src="figures/mrc_logo.jpg", width="350">
-<img src="figures/CSN_logo.jpg", width="350">
-<img src="figures/oist_logo.jpeg", width="350">
+<img src="figures/mrc_logo.jpg", width="150">
+<img src="figures/CSN_logo.jpg", width="150">
+<img src="figures/oist_logo.jpeg", width="150">
 
 ---
 
