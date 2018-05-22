@@ -51,7 +51,7 @@ Everything is zscore normalized for presentation (to have 0 mean and unit std), 
 ---
 
 @title[Switching occurred in over 20% of cells]
-<p><span class="menu-title slide-title">Switching occurred in 28% of cells</span></p>
+<p><span class="menu-title slide-title">Switching occurred in over 20% of cells</span></p>
 
 <img src="figures/Switching_figA.png" alt="Switching example" height="250">
 <img src="figures/switching_quantification.png" alt="Switching quantification" height="250">
