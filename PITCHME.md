@@ -1,6 +1,6 @@
 @title[Title slide]
 ## Lights on, lights off
-#### "switching" cells in the reina
+#### "switching" cells in the retina
 Martha Robinson
 
 ---?image=figures/retina_circuit.png&size=auto 90%
@@ -22,7 +22,7 @@ I started this work because I was interested in how the rod and the cone pathway
 ---?image=figures/NoSwitchcellegs_WT.png&size=auto 90%
 @title[Characterising retinal receptive fields]
 
-Note: 
+Note:
 Scalebar is 200um
 
 ---?image=figures/WT_ONOFF_SwitchingCells_EgFilters.png&size=auto 90%
@@ -79,7 +79,7 @@ Maybe also point to other egs of switches in ganglion cells
 - Switching is associated with spatial instability
 
 Note:
-What mechanism could explain this? 
+What mechanism could explain this?
 Why do cells switch polarity?
 Really talk about how this seems like a nightmare for downstream neurons - if they care about polarity at all, how do they cope with their input neurons changing polarity seemingly willy-nilly? Can this switching encode something?
 ---
@@ -113,7 +113,7 @@ def rectifying_terminal_with_gap_junction(
     iweight = 0.5 #input weight
     islope = 20.0 #rectifying terminal Hill slope
     ih = 5.0 #rectifying terminal half-saturation point
-    aweight = 1.0 #"gap junction" weight 
+    aweight = 1.0 #"gap junction" weight
     aslope = 3.0 #Vm Hill slope
     ah = 3.0 # Vm half-saturation point
     vmweight = 5.0 #scale Vm
@@ -121,7 +121,7 @@ def rectifying_terminal_with_gap_junction(
     #weight input for "gap junction"
     gi = input*aweight
     #calcuate the Vm set by "gap junction"
-    vm = gi**-aslope/(gi**-aslope + ah**-aslope) 
+    vm = gi**-aslope/(gi**-aslope + ah**-aslope)
     #and add the input
     vinf = (vm*vmweight) + (input*iweight)
     #decay the membrane potential back to vm
