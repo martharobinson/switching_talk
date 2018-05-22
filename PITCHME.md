@@ -90,7 +90,7 @@ Additionally, retinal ganglion cells could switch more than once. Eg. going from
 @title[Switching is associated with spatial instability]
 <p><span class="menu-title slide-title">Switching is associated with spatial instability</span></p>
 
-<img src="figures/Switching_figC.png" alt="Spatial instability" height="250">
+<img src="figures/spatial_instability_examples.png" alt="Spatial instability" height="250">
 <img src="figures/spatfreq_switchingvsnotswitching.png" alt="Spatial instability" height="250">
 
 Note:
