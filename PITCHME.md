@@ -104,7 +104,7 @@ Finally, I saw that switching was associated with spatial instability. I had gan
 @title[Summary]
 #### Summary
 
-- Switching was common (28%)
+- Switching was common
 - Swiching occured between every pair of light levels
 - One cell can switch multiple times
 - Switching is associated with spatial instability
@@ -207,7 +207,7 @@ Again, as proof of principle, this minimal model can also switch more than once,
 @title[Model summary]
 #### Is the model sufficient?
 
-- Switching was common (28%) |
+- Switching was common |
 - Swiching occured between every pair of light levels |
 - One cell can switch multiple times |
 - Switching is associated with spatial instability |
