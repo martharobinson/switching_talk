@@ -3,9 +3,6 @@
 #### "switching" cells in the retina
 Martha Robinson
 
-Note:
-Work at inst opthal
-Currently study how the retina processes visual information, and how this can be disrupted in disorders that cause vision loss.
 
 ---?image=figures/retina_circuit.png&size=auto 90%
 
@@ -75,7 +72,7 @@ They patched anatomically identified ON and OFF cells and showed that this pheno
 <img src="figures/switches_all_light_levels.png" alt="Spatial instability" height="250">
 
 Note:
-Switching occured between every pair of light levels, without a clear pattern. It's not something as straightforward as a change that happens at cone threshold, for example. Although I was most likely to see a switch when comparing my lowest and my highest light levels.
+Switching occurred between every pair of light levels, without a clear pattern. It's not something as straightforward as a change that happens at cone threshold, for example. Although I was most likely to see a switch when comparing my lowest and my highest light levels.
 
 ---
 
@@ -105,7 +102,7 @@ Finally, I saw that switching was associated with spatial instability. I had gan
 #### Summary
 
 - Switching was common
-- Swiching occured between every pair of light levels
+- Switching occurred between every pair of light levels
 - One cell can switch multiple times
 - Switching is associated with spatial instability
 
@@ -208,13 +205,13 @@ Again, as proof of principle, this minimal model can also switch more than once,
 #### Is the model sufficient?
 
 - Switching was common |
-- Swiching occured between every pair of light levels |
+- Switching occurred between every pair of light levels |
 - One cell can switch multiple times |
 - Switching is associated with spatial instability |
 
 Note:
 Common - widespread, basic retinal circuit
-Occured between every pair of light levels- small differences in one component can shift switch along light levels
+Occurred between every pair of light levels- small differences in one component can shift switch along light levels
 Could occur multiple times in one cell- model terminals can switch multiple times
 Associated with spatial instability- likely, as multiple terminals make up spatial receptive field of ganglion cells
 
@@ -222,14 +219,34 @@ Associated with spatial instability- likely, as multiple terminals make up spati
 @title[Ongoing]
 #### Ongoing work
 
-* Test this minimal model
-    - Identify switching terminals in mouse inner retina using GluSnFR
-    - Peturb AII tonic input to cone bipolar cells - is switching reduced?
+* Balance of ON and OFF responses within each cell at each light level - STC analysis
+
+* Extending minimal model into spatial dimensions
+
+* Do bipolar cell terminals also switch in the mouse retina?
+    - Looking al light responses in bipolar cell terminals in mouse inner retina using GCAMP6 across different light light levels
+
 
 Note:
-7m8 capsid, GluSnFR under GRM6 promotor
+7m8 capsid, GCAMP6 under GRM6 promotor
 Gap junction blocker eg meclofenamic acid (MFA) (or connexin 36 knockout)
 Glycine blocker eg strychnine
+
+---
+@title{Acknowledgements}
+#### Acknowledgements
+Dr Kate Powell
+Dr Matteo Rizzi
+
+Dr Mark Basche
+Dr Sander Smith
+Dr Sungho Hong
+Professor Robin Ali
+
+<img src="figures/mrc_logo.jpg">
+<img src="figures/CSN_logo.jpg">
+<img src="figures/oist_logo.jpeg">
+
 ---
 
 @title[Questions?]
