@@ -92,7 +92,7 @@ Additionally, retinal ganglion cells could switch more than once. Eg. going from
 
 <p align="center">
 <img src="figures/spatial_instability_examples.png" alt="Spatial instability" height="400">
-<img src="figures/spatfreq_switchingvsnotswitching.png" alt="Spatial instability" height="200">
+<img src="figures/spatfreq_switchingvsnotswitching.png" alt="Spatial instability" height="200" align="middle">
 </p>
 
 Note:
