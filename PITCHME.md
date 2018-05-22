@@ -163,6 +163,7 @@ When you add resting membrane potential hyperpolarization, switching occurs. You
 ---?image=figures/model_matches_biology_summary.png&size=auto 90%
 
 @title[Minimal model replicates in vivo observations]
+#### Minimal model replicates in vivo observations
 
 Note:
 Early stages, but as proof of principle. Just adjusting one parameter of the minimal model - here ah, the half saturation point for the "antagonistic" nonlinearity, you can make otherwise identical "terminals" switch at different stimulus intensities. Proof of principle that these two components are theoretically sufficient.
