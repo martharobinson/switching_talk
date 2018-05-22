@@ -173,17 +173,11 @@ Early stages, but as proof of principle. Just adjusting one parameter of the min
 
 Note:
 Again, as proof of principle, this minimal model can also switch more than once, just with these two components.
+Switching was common
+Switching occurred between every pair of light levels
+One cell can switch multiple times
+Switching is associated with spatial instability
 
----
-@title[Model summary]
-#### Is the model sufficient?
-
-- Switching was common |
-- Switching occurred between every pair of light levels |
-- One cell can switch multiple times |
-- Switching is associated with spatial instability |
-
-Note:
 Common - widespread, basic retinal circuit
 Occurred between every pair of light levels- small differences in one component can shift switch along light levels
 Could occur multiple times in one cell- model terminals can switch multiple times
@@ -193,12 +187,12 @@ Associated with spatial instability- likely, as multiple terminals make up spati
 @title[Ongoing]
 #### Ongoing work
 
-* Balance of ON and OFF responses within each cell at each light level - STC analysis
+* What is the balance between ON and OFF responses within one light level for switching cells?
 
-* Extending minimal model into spatial dimensions
+* At what level of the retina does switching occur?
 
-* Do bipolar cell terminals also switch in the mouse retina?
-    - Looking al light responses in bipolar cell terminals in mouse inner retina using GCAMP6 across different light light levels
+* Can the minimal model explain our spatial findings?
+
 
 
 Note:
@@ -222,10 +216,6 @@ Glycine blocker eg strychnine
 
 ---
 
-@title[Questions?]
-### Questions?
-
----
 
 @title[Supplementary: Switching in the absence of rod or cone function]
 <p><span class="menu-title slide-title">Switching in the absence of rod or cone function</span></p>
