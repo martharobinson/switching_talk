@@ -115,26 +115,9 @@ Really talk about how this seems like a nightmare for downstream neurons - if th
 
 ---
 
-
 @title[Minimal model of switching]
 <p><span class="menu-title slide-title">Minimal model of switching</span></p>
-<img src="figures/retina_circuit.png" height="200">
-<img src="figures/Grimes_2014_ref.png" height="200">
-<br/>
-<img src="figures/basic_ia_model.png" height="200">
-
-Note:
-To make any cell switch it's receptive field, very simply you need two components that oppose eachother, where sometimes one "wins" and sometimes another "wins" -- or, two components that combine to form a nonlinearity that describes your switch.
-Odermatt et al., proposed this basic model of an intrinsic and antagonistic nonlinearity combinining to make a switching terminal. I suggest a biological basis for it: intrinsic is the rectifying bipolar cell terminal, described by Hill sigmoid (often used to v simply model the calcium channels here), and the antagonistic is the bipolar membrane potential, which drifts in opposition to the photoreceptor cell driven bipolar responses.
-Grimes et al have already shown that this drift can cause a change in spatial encoding at ganglion cells, due to rectification at the bipolar cell terminal - essentially, switching could be just a form of rectification.
-
-The two components could come from many sources - but are they sufficient to explain the data so far?
-
----
-
-@title[Minimal model of switching]
-<p><span class="menu-title slide-title">Minimal model of switching</span></p>
-<img src="figures/basic_ia_model.png" height="200">
+<img src="figures/basic_ia_model.png" height="180">
 ```python
 def rectifying_terminal_with_gap_junction(
         vprior, input, dt):
