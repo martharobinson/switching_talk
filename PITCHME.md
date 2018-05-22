@@ -160,10 +160,14 @@ Note:
 Rectifying terminal w/o membrane potential drift doesn't switch. Saturates.
 When you add resting membrane potential hyperpolarization, switching occurs. You can also see that the dynamic range of the terminal is being made better use of, suggesting that "switching" might serve a purpose of increasing the contrast range a terminal can reliably detect/respond to.
 
----?image=figures/model_matches_biology_summary.png&size=auto 90%
+---
 
 @title[Minimal model replicates in vivo observations]
-#### Minimal model replicates in vivo observations
+
+<p><span class="menu-title slide-title">Minimal model replicates in vivo observations</span></p>
+
+<img src="figures/model_matches_biology_summary.png" alt="Minimal model replicates in vivo observations" height="250">
+
 
 Note:
 Early stages, but as proof of principle. Just adjusting one parameter of the minimal model - here ah, the half saturation point for the "antagonistic" nonlinearity, you can make otherwise identical "terminals" switch at different stimulus intensities. Proof of principle that these two components are theoretically sufficient.
